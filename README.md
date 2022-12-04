@@ -9,6 +9,7 @@
 
 <!-- PROJECT LOGO -->
 <br/>
+
 <div align="center">
 
 
@@ -20,6 +21,8 @@
 </div>
 
 ---
+
+<br>
 
 <!-- ABOUT THE PROJECT -->
 
