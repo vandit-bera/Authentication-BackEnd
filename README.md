@@ -23,7 +23,9 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## 📖 About The Project
+
+<br>
 
 ### File structure is: 
 ![ss](./ss/all%20file.png)
@@ -45,7 +47,7 @@ Here's a Screen-Shot of my project and I learnt Most of my usefull Future of Bac
 <br>
 <br>
 
-## Built With
+## 🛠️ Built With
 
 **Using Technologies**
 
@@ -71,12 +73,12 @@ Here's a Screen-Shot of my project and I learnt Most of my usefull Future of Bac
 <!-- LEARNT -->
 <br>
 
-## Learnt
+## 🥅 Learnt
 In This project I learnt more about Back-End part. How It's work and how to integrate with the simple authentication app.
 
 <br>
 
-## Time
+## ⏱️ Time
 
 For this project I took around `2 to 3 hours` to complete it.
 
@@ -84,7 +86,7 @@ For this project I took around `2 to 3 hours` to complete it.
 
 <!-- CONTACT -->
 
-## Contact
+## 📞 Contact
 
 - **Name 👨‍💻:** [Vandit Bera](https://github.com/vandit-bera)
 - **Email 📧:** [vanditbera@gmail.com](mailto:vanditbera@gmail.com)
